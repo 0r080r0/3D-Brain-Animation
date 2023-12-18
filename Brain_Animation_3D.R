@@ -1,4 +1,4 @@
-# 3D brian animation
+# 3D brain animation
 
 # install packages & load libraries
 install.packages("threeBrain")
